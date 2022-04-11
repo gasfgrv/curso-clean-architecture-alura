@@ -1,0 +1,6 @@
+
+V
+java:S1854";Remove this useless assignment to local variable "emailID".(«ÐÅ¯úÿÿÿÿ
+G
+java:S1481",Remove this unused "emailID" local variable.(«ÐÅ¯úÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Ì¼Äú
